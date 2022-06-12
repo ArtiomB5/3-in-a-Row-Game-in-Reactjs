@@ -12,7 +12,7 @@ export const TextStyled = styled.div`
   @media screen and (orientation: landscape) {
     font-size: 3vw;
   }
-  color: white;
   font-weight: 700;
+  color: white;
   text-shadow: 0 0 3px #48137F, 0 0 3px #48137F, 0 0 3px #48137F, 0 0 3px #48137F;
 `
