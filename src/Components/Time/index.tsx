@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import {TimeTitle} from "./style/TimeTitle";
 import {TimeStyled} from "./style/TimeStyled";
+import {TimeTitle} from "./style/TimeTitle";
 
 export const Time = () => {
     const [isActive, setIsActive] = useState(true);
